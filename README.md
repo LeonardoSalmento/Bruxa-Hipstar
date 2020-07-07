@@ -2,10 +2,12 @@
 Jogo desenvolvido durante a imersão game dev - alura
 
 
-<b>Tela Inicial</b>
+<b>Tela Inicial
 ![](Menu.png)
+
 img src=”Menu.png”
 
-<b>Jogo</b>
+Jogo
+![](Jogo.png)
 
 img src=”Jogo.png”
